@@ -1,2 +1,0 @@
-# DnaToRnaConvertor
-Created with CodeSandbox
